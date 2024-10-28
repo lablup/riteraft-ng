@@ -76,4 +76,3 @@ pub async fn test_dynamic_bootstrap() {
     }
     exit(0);
 }
-
