@@ -36,3 +36,6 @@ tests/tests/fixtures
 logs
 
 .ip_counter
+
+node_modules
+index.node

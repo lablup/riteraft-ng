@@ -1,0 +1,17 @@
+[[raft.peers]]
+ip = "127.0.0.1"
+port = 60061
+node_id = 1
+role = "voter"
+
+[[raft.peers]]
+ip = "127.0.0.1"
+port = 60062
+node_id = 2
+role = "voter"
+
+[[raft.peers]]
+ip = "127.0.0.1"
+port = 60063
+node_id = 3
+role = "voter"

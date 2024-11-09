@@ -1,0 +1,13 @@
+{  
+    "package": "raftify-js",
+    "devDependencies": {
+        "@napi-rs/cli": "^1.0.0"
+    },
+    "napi": {
+        "name": "raftify-js"
+    },
+    "scripts": {
+        "build": "napi build --release",
+        "build:debug": "napi build"
+    }
+}
